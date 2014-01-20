@@ -1,0 +1,4 @@
+- git:
+    local-name: linda
+    uri: https://github.com/LCAS/linda.git
+    version: master
